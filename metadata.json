@@ -1,0 +1,6 @@
+{
+  "name": "Tiristores y Electrónica de Potencia - TecNM Comalcalco",
+  "description": "Simulador interactivo, curvas de trabajo, tutor socrático y evaluación de la Unidad II: Tiristores (FED-2302). Creado por el Profesor Jesus Ixta - ITSC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
